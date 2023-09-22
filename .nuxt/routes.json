@@ -1,0 +1,51 @@
+[
+  {
+    "name": "app",
+    "path": "/app",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\app\\\\index.vue",
+    "chunkName": "pages/app/index",
+    "_name": "_0c270e7c"
+  },
+  {
+    "name": "artikel",
+    "path": "/artikel",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\artikel\\\\index.vue",
+    "chunkName": "pages/artikel/index",
+    "_name": "_2c202f57"
+  },
+  {
+    "name": "latihan",
+    "path": "/latihan",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan.vue",
+    "chunkName": "pages/latihan",
+    "_name": "_49667e6c"
+  },
+  {
+    "name": "latihan2",
+    "path": "/latihan2",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan2.vue",
+    "chunkName": "pages/latihan2",
+    "_name": "_e339fc50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6ac5679e"
+  },
+  {
+    "name": "app-detail-id",
+    "path": "/app/detail/:id?",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\app\\\\detail\\\\_id.vue",
+    "chunkName": "pages/app/detail/_id",
+    "_name": "_ab5cba0e"
+  },
+  {
+    "name": "artikel-detail-id",
+    "path": "/artikel/detail/:id?",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\artikel\\\\detail\\\\_id.vue",
+    "chunkName": "pages/artikel/detail/_id",
+    "_name": "_bb355464"
+  }
+]
