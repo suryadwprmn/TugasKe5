@@ -33,7 +33,25 @@
             >
           </li>
           <li class="nav-item">
-            <nuxt-link class="nav-link active" aria-current="page" to="/artikel">Artikel</nuxt-link>
+            <nuxt-link class="nav-link active" aria-current="page" to="/artikel"
+              >Artikel</nuxt-link
+            >
+          </li>
+          <li class="nav-item">
+            <nuxt-link
+              class="nav-link active"
+              aria-current="page"
+              to="/lifecycle"
+              >Lifecycle</nuxt-link
+            >
+          </li>
+          <li class="nav-item">
+            <nuxt-link
+              class="nav-link active"
+              aria-current="page"
+              to="/lifecycle2"
+              >Lifecycle 2</nuxt-link
+            >
           </li>
         </ul>
       </div>

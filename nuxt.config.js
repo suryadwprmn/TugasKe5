@@ -1,7 +1,8 @@
+import webpack from 'webpack'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'cobanpx1',
+    title: 'LatihanNuxt1',
     meta: [{
         charset: 'utf-8'
       },
@@ -34,6 +35,11 @@ export default {
       body: true
     }]
   },
+  ssr: true,
+  loading: {
+    color: 'green',
+    height: '10px'
+  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
@@ -47,15 +53,15 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/eslint
-
+    // '@nuxtjs/eslint-module',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/bootstrap
-    'bootstrap-vue/nuxt',
+    //'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
+    //'@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
   ],
@@ -74,5 +80,11 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    plugins: [
+      new webpack.ProvidePlugin({
+        _: 'lodash'
+      })
+    ]
+  },
 }

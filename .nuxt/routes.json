@@ -3,49 +3,54 @@
     "name": "app",
     "path": "/app",
     "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\app\\\\index.vue",
-    "chunkName": "pages/app/index",
-    "_name": "_0c270e7c"
+    "chunkName": "pages/app/index"
   },
   {
     "name": "artikel",
     "path": "/artikel",
     "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\artikel\\\\index.vue",
-    "chunkName": "pages/artikel/index",
-    "_name": "_2c202f57"
+    "chunkName": "pages/artikel/index"
   },
   {
     "name": "latihan",
     "path": "/latihan",
     "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan.vue",
-    "chunkName": "pages/latihan",
-    "_name": "_49667e6c"
+    "chunkName": "pages/latihan"
   },
   {
     "name": "latihan2",
     "path": "/latihan2",
     "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan2.vue",
-    "chunkName": "pages/latihan2",
-    "_name": "_e339fc50"
+    "chunkName": "pages/latihan2"
+  },
+  {
+    "name": "lifecycle",
+    "path": "/lifecycle",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\lifecycle.vue",
+    "chunkName": "pages/lifecycle"
+  },
+  {
+    "name": "lifecycle2",
+    "path": "/lifecycle2",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\lifecycle2.vue",
+    "chunkName": "pages/lifecycle2"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_6ac5679e"
+    "chunkName": "pages/index"
   },
   {
     "name": "app-detail-id",
     "path": "/app/detail/:id?",
     "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\app\\\\detail\\\\_id.vue",
-    "chunkName": "pages/app/detail/_id",
-    "_name": "_ab5cba0e"
+    "chunkName": "pages/app/detail/_id"
   },
   {
     "name": "artikel-detail-id",
     "path": "/artikel/detail/:id?",
     "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\artikel\\\\detail\\\\_id.vue",
-    "chunkName": "pages/artikel/detail/_id",
-    "_name": "_bb355464"
+    "chunkName": "pages/artikel/detail/_id"
   }
 ]

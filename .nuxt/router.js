@@ -8,6 +8,8 @@ const _0c270e7c = () => interopDefault(import('..\\pages\\app\\index.vue' /* web
 const _2c202f57 = () => interopDefault(import('..\\pages\\artikel\\index.vue' /* webpackChunkName: "pages/artikel/index" */))
 const _49667e6c = () => interopDefault(import('..\\pages\\latihan.vue' /* webpackChunkName: "pages/latihan" */))
 const _e339fc50 = () => interopDefault(import('..\\pages\\latihan2.vue' /* webpackChunkName: "pages/latihan2" */))
+const _7da3c349 = () => interopDefault(import('..\\pages\\lifecycle.vue' /* webpackChunkName: "pages/lifecycle" */))
+const _36ec4f39 = () => interopDefault(import('..\\pages\\lifecycle2.vue' /* webpackChunkName: "pages/lifecycle2" */))
 const _6ac5679e = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 const _ab5cba0e = () => interopDefault(import('..\\pages\\app\\detail\\_id.vue' /* webpackChunkName: "pages/app/detail/_id" */))
 const _bb355464 = () => interopDefault(import('..\\pages\\artikel\\detail\\_id.vue' /* webpackChunkName: "pages/artikel/detail/_id" */))
@@ -39,6 +41,14 @@ export const routerOptions = {
     path: "/latihan2",
     component: _e339fc50,
     name: "latihan2"
+  }, {
+    path: "/lifecycle",
+    component: _7da3c349,
+    name: "lifecycle"
+  }, {
+    path: "/lifecycle2",
+    component: _36ec4f39,
+    name: "lifecycle2"
   }, {
     path: "/",
     component: _6ac5679e,
